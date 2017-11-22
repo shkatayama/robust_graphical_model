@@ -20,3 +20,4 @@ ar1 <- function(p,rho){
 	return(si)
 }
 
+aaa
